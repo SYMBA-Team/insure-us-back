@@ -1,0 +1,1 @@
+bcrypt cookie-parser cors dotenv express jsonwebtoken mongoose nodemailer
